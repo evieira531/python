@@ -1,0 +1,13 @@
+#!/usr/bin/env python3.6
+
+#My vars#
+
+first_name = "Eurico"
+last_name = "Vieira"
+age = 34
+birth_date = "May 31, 1985"
+
+#My Intro#
+
+print(f"Hello my name is {first_name} {last_name}." )
+print(f"I was born on {birth_date}, and I am {age} years old." )
